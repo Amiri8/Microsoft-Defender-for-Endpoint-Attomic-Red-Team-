@@ -111,3 +111,4 @@ To determine, if the policy was applied successfuly just click into the policy
 <img width="2136" height="1478" alt="image" src="https://github.com/user-attachments/assets/830767a3-ba97-4a0c-880e-9427a5f63007" />
 
 
+Next parts of this project will be up soon ... 
