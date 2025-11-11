@@ -1,4 +1,4 @@
-# Microsoft-Defender-for-Endpoint-Attomic-Red-Team
+# Microsoft-Defender-&-Endpoint-Attomic-Red-Team
 For this project we are going to: 
 1. Onboard a VM
 2. Create Attack Surface Reduction Rules
