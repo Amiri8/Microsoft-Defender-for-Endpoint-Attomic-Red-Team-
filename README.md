@@ -10,7 +10,7 @@ For this project we are going to:
 # What is Microsoft Defender for Endpoint
 Microsoft Defender for Endpoint is a comprehensive enterprise security platform that helps organisations prevent, detect, investigate, and respond to advanced cyberthreats on endpoints like laptops, mobile devices, and servers.
 
-# onboarding a VM 
+# 1. Onboarding a VM 
 
 In the https://security.microsoft.com
 
@@ -57,11 +57,11 @@ We can go to `Assets -> Devices` to confirm.
 
 
 
-# Attack surface reduction
+# 2. Attack surface reduction
 Attack surface reduction (ASR) rules are a set of security policies designed to block common malware and ransomware behaviors, protecting endpoints from threats before they can cause harm
 
 
-# Steps:
+## Steps:
 - Inroll the endpoint into Intune
 
 Head to https://intune.microsoft.com/
